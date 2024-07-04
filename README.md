@@ -1,1 +1,1 @@
-# basic2
+Once your basic structure and styling are set up, continue refining your portfolio by adding more detailed project descriptions, optimizing performance, and enhancing accessibility. Don't forget to regularly update your portfolio with new projects and experiences to keep it current and relevant. Good luck with your portfolio website!
